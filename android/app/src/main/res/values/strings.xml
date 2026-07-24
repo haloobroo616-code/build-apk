@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyWebViewApp</string>
+    <string name="webview_url">https://example.com</string>
+</resources>
